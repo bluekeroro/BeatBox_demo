@@ -6,7 +6,7 @@
 * Base on BeatBox demo of *Android programming: the big nerd ranch guide(2th)*, and complete the all challenge practices.
 * A play sound demo.
 * This demo relate to how to use Assets,SoundPool,XML drawable and design theme.
-# Demo sreenshot:
+# Demo screenshot:
 ![image](https://user-images.githubusercontent.com/25412051/38764803-51fc4618-3fe8-11e8-90e6-1c85b204cb02.png)
 # Note:
 ![image](https://user-images.githubusercontent.com/25412051/38764771-c891540e-3fe7-11e8-8ab6-758e91e0bb13.png)
