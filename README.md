@@ -10,5 +10,4 @@
 ![image](https://user-images.githubusercontent.com/25412051/38764803-51fc4618-3fe8-11e8-90e6-1c85b204cb02.png)
 # Note:
 ![image](https://user-images.githubusercontent.com/25412051/38764771-c891540e-3fe7-11e8-8ab6-758e91e0bb13.png)
-![image](https://user-images.githubusercontent.com/25412051/38764771-c891540e-3fe7-11e8-8ab6-758e91e0bb13.png)
 ![image](https://user-images.githubusercontent.com/25412051/38764783-04b0215e-3fe8-11e8-99b7-0871d0679f41.png)
